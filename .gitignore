@@ -6,3 +6,7 @@ datasets/titanic/train.csv
 .ipynb_checkpoints/DigitsDemo-checkpoint.ipynb
 .ipynb_checkpoints/Ch4-Demos-checkpoint.ipynb
 .ipynb_checkpoints/cs455-chapter5-demos-checkpoint.ipynb
+.ipynb_checkpoints/cs455-chapter6-demos-checkpoint.ipynb
+iris_tree.png
+tree.dot
+tree.png
