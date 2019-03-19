@@ -10,3 +10,9 @@ datasets/titanic/train.csv
 iris_tree.png
 tree.dot
 tree.png
+titanic1.dot
+titanic1.png
+titanic2.dot
+titanic2.png
+boston1.dot
+boston1.png
