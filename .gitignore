@@ -1,12 +1,8 @@
 
 datasets/titanic/gender_submission.csv
 datasets/titanic/test.csv
-datasets/titanic/train.csv
-.ipynb_checkpoints/TitanicDemo-checkpoint.ipynb
-.ipynb_checkpoints/DigitsDemo-checkpoint.ipynb
-.ipynb_checkpoints/Ch4-Demos-checkpoint.ipynb
-.ipynb_checkpoints/cs455-chapter5-demos-checkpoint.ipynb
-.ipynb_checkpoints/cs455-chapter6-demos-checkpoint.ipynb
+datasets/
+.ipynb_checkpoints/
 iris_tree.png
 tree.dot
 tree.png
@@ -16,8 +12,6 @@ titanic2.dot
 titanic2.png
 boston1.dot
 boston1.png
-.ipynb_checkpoints/cs455-chapter7-demos-checkpoint.ipynb
-.ipynb_checkpoints/tensorflow-introduction-demo-checkpoint.ipynb
 checkpoint
 *.local
 *.index
